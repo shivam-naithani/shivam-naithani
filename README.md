@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Naithani
 
-<!--
-**shivam-naithani/shivam-naithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | India 🇮🇳**
 
-Here are some ideas to get you started:
+I build clean, functional web applications with a focus on maintainable code and practical problem-solving.  
+Currently strengthening my **Data Structures & Algorithms (DSA)** skills while working with modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+- HTML, CSS, Tailwind CSS
+- JavaScript, React
+
+**Backend & Database**
+- MongoDB
+- Express.js
+- Node.js
+- Java
+- Python
+- Firebase
+
+**Tools**
+- Git, GitHub
+
+---
+
+## 📌 Current Focus
+- Practicing **DSA** for interviews and problem-solving  
+- Improving full-stack workflows with React and backend integration  
+- Writing cleaner, more scalable code
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivam-naithani&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivam-naithani&layout=compact&theme=tokyonight&hide=html,css)
+
+---
+
+## 🤝 Connect
+- GitHub: https://github.com/shivam-naithani
+- LinkedIn: www.linkedin.com/in/shivam-naithani-76138a2b8
+
+---
+
+⭐ Focused on learning, building, and improving every day.
+
+
