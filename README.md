@@ -14,7 +14,8 @@ Currently strengthening my **Data Structures & Algorithms (DSA)** skills while w
 - JavaScript, React
 
 **Backend & Database**
-- MongoDB
+- MYSQL
+- PHP
 - Express.js
 - Node.js
 - Java
