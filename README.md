@@ -35,10 +35,7 @@ Paste a resume and a job description, get an ATS-style match score. The scoring 
 
 `Java` `Spring Boot` `Hibernate` `React` `MySQL`
 
-👉 Repository going public soon
-<!-- When the repo is public, replace the line above with:
 👉 [View repository](https://github.com/shivam-naithani/resume-analyzer)
--->
 
 ### 🌐 Developer Portfolio
 A personal site built with React and Vite, with a dark navy and cyan theme and a typewriter intro.
